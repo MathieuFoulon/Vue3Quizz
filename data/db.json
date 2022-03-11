@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "Test unitaire sur UserController",
+      "details": "Vérifier les droits d'accès Guest, User et Admin.",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Développer un service d'upload d'images",
+      "details": "Créer un service vérifiant le MIME Type et déplacer les fichiers dans les dossiers correspondants selon le cahier des charges.",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "Créer le formulaire de contact",
+      "details": "Laisser la possibilité à un utilisateur anonyme ou inscrit de pouvoir laisser un message aux administrateurs du site.",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Développer un service de mailing",
+      "details": "Mettre en place l'installation de MailJet pour envoyer un mail dès l'inscription d'un utilisateur, et pour la réinitialisation du mot de passe à la demande de l'utilisateur.",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
